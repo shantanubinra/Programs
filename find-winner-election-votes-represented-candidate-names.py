@@ -1,3 +1,11 @@
+'''
+Given an array of names of candidates in an election. A candidate name in array represents a vote casted to the candidate. 
+Print the name of candidates received Max vote. If there is tie, print lexicographically smaller name.
+https://www.geeksforgeeks.org/find-winner-election-votes-represented-candidate-names/
+'''
+
+
+
 votes = ["john", "johnny", "jackie", 
                     "johnny", "john", "jackie", 
                     "jamie", "jamie", "john",
