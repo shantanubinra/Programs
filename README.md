@@ -1,2 +1,2 @@
 # Programs
-this basically will consist of all the  compettaive programs
+this basically will consist of all the competitive programs
